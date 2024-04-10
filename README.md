@@ -2,7 +2,8 @@
 
 This repository contains a Laravel project implementing a basic CRUD (Create, Read, Update, Delete) functionality for managing student records. Additionally, it incorporates Passport for API authentication and uses AJAX calls to interact with the backend.
 
-##Demo Video
+## Demo Video
+https://youtu.be/MhAJCL3oHgA
 
 ## Key Features:
 
